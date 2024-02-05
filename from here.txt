@@ -1,5 +1,5 @@
 stat 
 hi 
 today iam starting
-ok>
+ok
 who are you 
